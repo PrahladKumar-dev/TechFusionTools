@@ -1,0 +1,417 @@
+{
+  "products": [
+    {
+      "id": "hakko-936",
+      "model": "Hakko 936",
+      "title": "Analog Soldering Station - 60W",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p05.jpg",
+      "specs": [
+        "60W",
+        "200\u00b0C\u2013480\u00b0C",
+        "24V AC",
+        "Ceramic heater"
+      ]
+    },
+    {
+      "id": "hakko-937",
+      "model": "Hakko 937",
+      "title": "Digital Soldering Station - 60W",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p06.jpg",
+      "specs": [
+        "60W",
+        "200\u00b0C\u2013480\u00b0C",
+        "ESD-safe",
+        "Digital display"
+      ]
+    },
+    {
+      "id": "yihua-936b",
+      "model": "Yihua 936B",
+      "title": "Constant Temperature Soldering Station",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p07.jpg",
+      "specs": [
+        "60W",
+        "200\u00b0C\u2013480\u00b0C",
+        "\u00b110\u00b0C static",
+        "900M series"
+      ]
+    },
+    {
+      "id": "yihua-937d",
+      "model": "YIHUA 937D",
+      "title": "Digital Display Soldering Station - 60W",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p08.jpg",
+      "specs": [
+        "40W",
+        "200\u00b0C\u2013480\u00b0C",
+        "LED display",
+        "900M series"
+      ]
+    },
+    {
+      "id": "bakon-bk969s",
+      "model": "Bakon BK969S",
+      "title": "Digital Soldering Station - 60W",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p09.jpg",
+      "specs": [
+        "60W",
+        "200\u00b0C\u2013480\u00b0C",
+        "LCD display",
+        "ESD protection"
+      ]
+    },
+    {
+      "id": "bakon-sbk936d",
+      "model": "Bakon SBK936D+",
+      "title": "Lead-Free Digital Soldering Station",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p10.jpg",
+      "specs": [
+        "60W",
+        "200\u00b0C\u2013480\u00b0C",
+        "\u00b12\u00b0C",
+        "ESD safe"
+      ]
+    },
+    {
+      "id": "bakon-sbk936b",
+      "model": "Bakon SBK936B",
+      "title": "Analog Soldering Station",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p11.jpg",
+      "specs": [
+        "60\u201365W",
+        "200\u00b0C\u2013480\u00b0C",
+        "24V",
+        "ESD safe"
+      ]
+    },
+    {
+      "id": "hakko-fx888d",
+      "model": "Hakko FX-888D",
+      "title": "Digital Soldering Station",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p12.jpg",
+      "specs": [
+        "70W",
+        "50\u00b0C\u2013480\u00b0C",
+        "\u00b11\u00b0C idle",
+        "T18 series"
+      ]
+    },
+    {
+      "id": "hakko-fx951",
+      "model": "Hakko FX-951",
+      "title": "High-Performance Digital Soldering Station",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p13.jpg",
+      "specs": [
+        "75W",
+        "200\u00b0C\u2013450\u00b0C",
+        "\u00b11\u00b0C idle",
+        "T12 series"
+      ]
+    },
+    {
+      "id": "goot-rx802as",
+      "model": "Goot RX-802AS",
+      "title": "Lead Free Soldering Station - 80W",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p14.jpg",
+      "specs": [
+        "80W",
+        "50\u00b0C\u2013450\u00b0C",
+        "6 sec heat-up",
+        "RX-80HRT"
+      ]
+    },
+    {
+      "id": "bakon-bk90",
+      "model": "Bakon BK90",
+      "title": "Durable Efficient Digital Soldering Station",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p15.jpg",
+      "specs": [
+        "90W max",
+        "200\u00b0C\u2013480\u00b0C",
+        "AC230V",
+        "BK600 tips"
+      ]
+    },
+    {
+      "id": "bakon-bk2000",
+      "model": "Bakon BK2000",
+      "title": "High-Frequency Eddy Current, Lead-Free Soldering Station",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p16.jpg",
+      "specs": [
+        "90W",
+        "50\u00b0C\u2013600\u00b0C",
+        "\u00b12\u00b0C",
+        "200 series tips"
+      ]
+    },
+    {
+      "id": "bakon-bk2000a",
+      "model": "Bakon BK2000A",
+      "title": "High-Frequency Eddy Current, Lead-Free Soldering Station",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p17.jpg",
+      "specs": [
+        "90W",
+        "50\u00b0C\u2013600\u00b0C",
+        "Auto sleep",
+        "200 series tips"
+      ]
+    },
+    {
+      "id": "bakon-bk3300a",
+      "model": "Bakon BK3300A",
+      "title": "Eddy Current, Lead-Free Soldering Station",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p18.jpg",
+      "specs": [
+        "150W",
+        "50\u00b0C\u2013600\u00b0C",
+        "\u00b12\u00b0C",
+        "500 series tips"
+      ]
+    },
+    {
+      "id": "quick-205",
+      "model": "Quick 205",
+      "title": "Lead-Free Soldering Station - 150W",
+      "category": "Soldering Solutions",
+      "image": "assets/products/p19.jpg",
+      "specs": [
+        "150W",
+        "50\u00b0C\u2013600\u00b0C",
+        "\u00b12\u00b0C",
+        "500 series tips"
+      ]
+    },
+    {
+      "id": "bakon-bk3500",
+      "model": "Bakon BK3500",
+      "title": "Automatic Feeder Soldering Station - 120W",
+      "category": "Industrial Tools & Equipment",
+      "image": "assets/products/p20.jpg",
+      "specs": [
+        "120W",
+        "200\u00b0C\u2013500\u00b0C",
+        "Foot pedal",
+        "Auto feeding"
+      ]
+    },
+    {
+      "id": "bakon-bk373",
+      "model": "Bakon BK373",
+      "title": "Automatic Solder Feeding System",
+      "category": "Industrial Tools & Equipment",
+      "image": "assets/products/p21.jpg",
+      "specs": [
+        "14\u201335mm/s",
+        "220VAC",
+        "Adjustable feed",
+        "0.6\u20131.6mm wire"
+      ]
+    },
+    {
+      "id": "quick-850a",
+      "model": "Quick 850A",
+      "title": "SMD Rework Station - 270W",
+      "category": "SMD Rework Solutions",
+      "image": "assets/products/p22.jpg",
+      "specs": [
+        "270W",
+        "100\u00b0C\u2013450\u00b0C",
+        "24 L/min",
+        "ESD safe"
+      ]
+    },
+    {
+      "id": "bakon-sbk858d",
+      "model": "Bakon SBK858D",
+      "title": "Intelligent Hot Air Rework Station",
+      "category": "SMD Rework Solutions",
+      "image": "assets/products/p23.jpg",
+      "specs": [
+        "550W",
+        "100\u00b0C\u2013500\u00b0C",
+        "23 L/min",
+        "LED digital"
+      ]
+    },
+    {
+      "id": "bakon-bk880",
+      "model": "Bakon BK880",
+      "title": "SMD Air ReWork Station",
+      "category": "SMD Rework Solutions",
+      "image": "assets/products/p24.jpg",
+      "specs": [
+        "600W",
+        "100\u00b0C\u2013500\u00b0C",
+        "120 L/min",
+        "HD LCD"
+      ]
+    },
+    {
+      "id": "yihua-858d",
+      "model": "Yihua 858D",
+      "title": "SMD ReWork Station - 700W",
+      "category": "SMD Rework Solutions",
+      "image": "assets/products/p25.jpg",
+      "specs": [
+        "700W",
+        "100\u00b0C\u2013500\u00b0C",
+        "\u2264120 L/min",
+        "LED tube"
+      ]
+    },
+    {
+      "id": "bakon-bk850d",
+      "model": "Bakon BK850D",
+      "title": "SMD ReWork Station - 550W",
+      "category": "SMD Rework Solutions",
+      "image": "assets/products/p26.jpg",
+      "specs": [
+        "550W",
+        "100\u00b0C\u2013500\u00b0C",
+        "28 L/min",
+        "LED digital"
+      ]
+    },
+    {
+      "id": "bakon-bk861",
+      "model": "Bakon BK861",
+      "title": "Hot Air ReWork Station - 1000W",
+      "category": "SMD Rework Solutions",
+      "image": "assets/products/p27.jpg",
+      "specs": [
+        "1000W",
+        "100\u00b0C\u2013500\u00b0C",
+        "Up to 250 L/min",
+        "Brushless blower"
+      ]
+    },
+    {
+      "id": "bakon-bk881",
+      "model": "Bakon BK881",
+      "title": "Soldering + SMD Rework Station",
+      "category": "2-in-1 Stations",
+      "image": "assets/products/p28.jpg",
+      "specs": [
+        "560W hot air",
+        "90W soldering",
+        "100\u2013500\u00b0C",
+        "LCD"
+      ]
+    },
+    {
+      "id": "yihua-948",
+      "model": "Yihua 948",
+      "title": "De-Soldering Station - 90W",
+      "category": "Electronics Repair Tools",
+      "image": "assets/products/p29.jpg",
+      "specs": [
+        "90W",
+        "380\u00b0C\u2013480\u00b0C",
+        "0.05MPa suction",
+        "PID program"
+      ]
+    },
+    {
+      "id": "hoki-dsp-01",
+      "model": "Hoki DSP-01",
+      "title": "Manual De-Soldering Pump",
+      "category": "Electronics Repair Tools",
+      "image": "assets/products/hoki-dsp-01.jpg",
+      "specs": [
+        "Manual pump",
+        "Desoldering"
+      ]
+    },
+    {
+      "id": "bakon-bk012",
+      "model": "Bakon BK012",
+      "title": "Manual De-Soldering Pump",
+      "category": "Electronics Repair Tools",
+      "image": "assets/products/bakon-bk012.jpg",
+      "specs": [
+        "Manual pump",
+        "Desoldering"
+      ]
+    },
+    {
+      "id": "noel",
+      "model": "Noel",
+      "title": "Manual De-Soldering Pump",
+      "category": "Electronics Repair Tools",
+      "image": "assets/products/noel.jpg",
+      "specs": [
+        "Manual pump",
+        "Desoldering"
+      ]
+    },
+    {
+      "id": "goot-gs-100",
+      "model": "Goot GS-100",
+      "title": "Manual De-Soldering Pump",
+      "category": "Electronics Repair Tools",
+      "image": "assets/products/goot-gs-100.jpg",
+      "specs": [
+        "Manual pump",
+        "Desoldering"
+      ]
+    },
+    {
+      "id": "goot-gs-104",
+      "model": "Goot GS-104",
+      "title": "Manual De-Soldering Pump",
+      "category": "Electronics Repair Tools",
+      "image": "assets/products/goot-gs-104.jpg",
+      "specs": [
+        "Manual pump",
+        "Desoldering"
+      ]
+    },
+    {
+      "id": "hoki-dsp-05",
+      "model": "Hoki DSP-05",
+      "title": "Manual De-Soldering Pump",
+      "category": "Electronics Repair Tools",
+      "image": "assets/products/hoki-dsp-05.jpg",
+      "specs": [
+        "Manual pump",
+        "Desoldering"
+      ]
+    },
+    {
+      "id": "hoki-dsp-04",
+      "model": "Hoki DSP-04",
+      "title": "Electric De-Soldering Pump",
+      "category": "Electronics Repair Tools",
+      "image": "assets/products/hoki-dsp-04.jpg",
+      "specs": [
+        "Electric pump",
+        "Desoldering"
+      ]
+    },
+    {
+      "id": "yihua-929d-v",
+      "model": "YIHUA 929D-V",
+      "title": "Electric De-Soldering Pump",
+      "category": "Electronics Repair Tools",
+      "image": "assets/products/yihua-929d-v.jpg",
+      "specs": [
+        "Electric pump",
+        "Desoldering"
+      ]
+    }
+  ]
+}

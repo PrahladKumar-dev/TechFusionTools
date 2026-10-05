@@ -1,0 +1,1 @@
+TechFusion Tools updated premium build. Run with VS Code Live Server. Admin: admin / admin123. Base product images are in assets/products and catalog data in products.json.

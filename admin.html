@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TechFusion Tools | Admin</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800;900&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="admin.css">
+</head>
+<body>
+<main class="admin-shell">
+  <section id="login" class="login-card">
+    <a href="index.html" class="back">← Back to Website</a>
+    <div class="mini-brand"><b>TECH</b><em>FUSION</em><small>TOOLS</small></div>
+    <span class="kicker">ADMIN PANEL</span>
+    <h1>Product Manager</h1>
+    <p>Manage your custom products quickly and clearly.</p>
+    <form id="loginForm">
+      <input id="user" required placeholder="Username" autocomplete="username">
+      <input id="pass" required type="password" placeholder="Password" autocomplete="current-password">
+      <button type="submit">LOGIN →</button>
+      <small class="hint">Demo: admin / admin123</small>
+    </form>
+  </section>
+
+  <section id="dashboard" class="hidden">
+    <header class="admin-head">
+      <div><a href="index.html" class="back">← Website</a><span class="kicker">CATALOG CONTROL</span><h1>Products</h1></div>
+      <div class="head-actions"><span id="count" class="count">0 products</span><button id="logout" class="ghost">Logout</button></div>
+    </header>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+    <div class="admin-grid">
+      <form id="productForm" class="card form-card">
+        <div class="card-title"><div><span class="kicker">PRODUCT</span><h2 id="formTitle">Add Product</h2></div><span class="step">01</span></div>
+        <input type="hidden" id="editId">
+        <div class="form-grid">
+          <label>Model<input id="model" required placeholder="e.g. HAKKO 936"></label>
+          <label>Title<input id="title" required placeholder="e.g. Analog Soldering Station - 60W"></label>
+          <label>Category<select id="category"><option>Soldering Solutions</option><option>SMD Rework Solutions</option><option>2-in-1 Stations</option><option>Electronics Repair Tools</option><option>Industrial Tools & Equipment</option><option>ESD Solutions</option><option>Inspection & Magnification</option></select></label>
+          <label>Image<input id="image" type="file" accept="image/*"></label>
+          <label class="wide">Description<textarea id="description" rows="3" placeholder="Short product description..."></textarea></label>
+          <label class="wide">Specifications <small>one per line</small><textarea id="specs" rows="5" placeholder="60W
+200°C–480°C
+24V AC
+Ceramic heater"></textarea></label>
+        </div>
+        <div class="form-actions"><button class="save" type="submit">SAVE PRODUCT</button><button type="button" id="reset" class="ghost">CLEAR</button></div>
+      </form>
+
+      <section class="card products-card">
+        <div class="card-title"><div><span class="kicker">YOUR ADDITIONS</span><h2>Custom Products</h2></div><span class="step blue">02</span></div>
+        <div id="list" class="list"></div>
+      </section>
+    </div>
+  </section>
+</main>
+<script src="admin.js"></script>
+</body></html>
